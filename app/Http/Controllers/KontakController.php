@@ -8,6 +8,7 @@ class KontakController extends Controller
 {
     public function index()
     {
+        // ini saya rubah
         return view('form-kontak');
     }
 }
