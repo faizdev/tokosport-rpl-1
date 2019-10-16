@@ -19,4 +19,9 @@ class ProdukController extends Controller
             "dataProduk"    =>  $dataProdukFromDB
         ]);
     }
+
+    public function create()
+    {
+        echo "ini halaman create";
+    }
 }
