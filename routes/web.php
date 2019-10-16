@@ -20,3 +20,5 @@ Route::get('/about-me', function() {
 });
 
 Route::get('/kontak','KontakController@index');
+
+Route::get('/produk','ProdukController@index');

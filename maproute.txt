@@ -1,0 +1,9 @@
+ProdukController
+	f.index()	->	/produk
+	f.create()	->	/produk/create
+	f.simpan()	->	/produk
+	f.edit()	->	/produk/edit/{id}
+	f.update()	->	/produk/edit/{id}
+	f.delete()	->	/produk/delete/{id}
+	f.destroy()	->	/produk/delete/{id}
+

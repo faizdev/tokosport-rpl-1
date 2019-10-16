@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Hallo RPL 1 dirubah di kelas rpl 2
+                    Hallo RPL 1
                 </div>
 
                 <div class="links">
