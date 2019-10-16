@@ -22,6 +22,6 @@ class ProdukController extends Controller
 
     public function create()
     {
-        echo "ini halaman create";
+        return view('app.manajemen-produk.create');
     }
 }
