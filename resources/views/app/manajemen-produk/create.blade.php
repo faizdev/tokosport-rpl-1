@@ -1,5 +1,5 @@
 <form action="">
-    <table border="1">
+    <table>
         <tr>
             <td colspan="2">
                 <b>Tambah Barang Baru</b>
@@ -31,6 +31,38 @@
             <td>
                 <input type="number" name="kategori">
             </td>
+        </tr>
+
+        <tr>
+            <td>Warna</td>
+            <td>
+                <input type="text" name="warna">
+            </td>
+        </tr>
+
+        <tr>
+            <td>Gambar</td>
+            <td>
+                <input type="number" name="kategori">
+            </td>
+        </tr>
+
+        <tr>
+            <td>Info</td>
+            <td>
+                <textarea name="info"></textarea>
+            </td>
+        </tr>
+
+        <tr> 
+            <td>Deskripsi</td>
+            <td>
+                <textarea name="deskripsi"></textarea>
+            </td>
+        </tr>
+
+        <tr>
+            <td>Radio Button</td>
         </tr>
 
         <tr>
